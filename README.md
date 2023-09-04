@@ -27,7 +27,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - MySQL
 - Heidi SQL
 - osTicket v1.15.8
-- Link to downloads: https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6
 
 
 <h2>Installation Steps</h2>
@@ -62,8 +61,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
   
 4.) You will want to install / enable IIS in Windows with CGI and Common HTTP Features
   - World Wide Web Services -> Application Development Features -> 
-[X] CGI
-[X] Common HTTP Features
+CGI
+Common HTTP Features
   
 <p>
 <img src="https://imgur.com/LQjw9le.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
